@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "@tryghost/admin-api": "^1.5.0",
+    "@tryghost/content-api": "^1.6.0",
+    "@tryghost/helpers": "^1.1.56",
+    "@tryghost/string": "^0.1.22",
+    "glob-watcher": "^5.0.5",
+    "undertaker": "^1.3.0",
+    "vinyl-fs": "^3.0.3"
+  },
+  "name": "amazon-studios-production-portal",
+  "version": "1.0.0",
+  "description": "Production portal for onboarding production teams with Amazon Prime Originals.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-uglify": "^3.0.2",
+    "gulp-zip": "^5.1.0",
+    "pump": "^3.0.0"
+  }
+}
